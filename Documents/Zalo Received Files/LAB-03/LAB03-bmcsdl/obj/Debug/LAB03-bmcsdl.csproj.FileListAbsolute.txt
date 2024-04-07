@@ -1,0 +1,40 @@
+D:\Code\CÔNG NGHỆ NET\LAB03-bmcsdl\LAB03-bmcsdl\bin\Debug\LAB03-bmcsdl.exe.config
+D:\Code\CÔNG NGHỆ NET\LAB03-bmcsdl\LAB03-bmcsdl\bin\Debug\LAB03-bmcsdl.exe
+D:\Code\CÔNG NGHỆ NET\LAB03-bmcsdl\LAB03-bmcsdl\bin\Debug\LAB03-bmcsdl.pdb
+D:\Code\CÔNG NGHỆ NET\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.csproj.AssemblyReference.cache
+D:\Code\CÔNG NGHỆ NET\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.csproj.SuggestedBindingRedirects.cache
+D:\Code\CÔNG NGHỆ NET\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.Form1.resources
+D:\Code\CÔNG NGHỆ NET\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.Properties.Resources.resources
+D:\Code\CÔNG NGHỆ NET\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.csproj.GenerateResource.cache
+D:\Code\CÔNG NGHỆ NET\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.csproj.CoreCompileInputs.cache
+D:\Code\CÔNG NGHỆ NET\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.exe
+D:\Code\CÔNG NGHỆ NET\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.pdb
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\bin\Debug\LAB03-bmcsdl.exe.config
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\bin\Debug\LAB03-bmcsdl.exe
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\bin\Debug\LAB03-bmcsdl.pdb
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.csproj.AssemblyReference.cache
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.csproj.SuggestedBindingRedirects.cache
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.Properties.Resources.resources
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.csproj.GenerateResource.cache
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.csproj.CoreCompileInputs.cache
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.exe
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.pdb
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.LOP.resources
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.QLLH.resources
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.DIEM.resources
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.SINHVIEN.resources
+E:\LAB03-BMCSDL\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.ĐangNhap.resources
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\bin\Debug\LAB03-bmcsdl.exe.config
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\bin\Debug\LAB03-bmcsdl.exe
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\bin\Debug\LAB03-bmcsdl.pdb
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.csproj.AssemblyReference.cache
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.LOP.resources
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.QLLH.resources
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.DIEM.resources
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.SINHVIEN.resources
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.ĐangNhap.resources
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03_bmcsdl.Properties.Resources.resources
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.csproj.GenerateResource.cache
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.csproj.CoreCompileInputs.cache
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.exe
+C:\Users\thuho\Documents\Zalo Received Files\LAB03-bmcsdl\LAB03-bmcsdl\obj\Debug\LAB03-bmcsdl.pdb
